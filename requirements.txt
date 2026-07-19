@@ -1,0 +1,6 @@
+# Runtime dependency.
+Jinja2>=3.1.2
+
+# Development and test dependencies.
+pytest>=7.4
+PyYAML>=6.0
